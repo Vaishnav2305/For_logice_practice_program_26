@@ -1,1 +1,1 @@
-# For_logic_practice_program_26
+# For_logic_practic_program_26
